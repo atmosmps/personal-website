@@ -1,4 +1,4 @@
-baseurl = "localhost"
+baseurl = "http://atmosmaciel.dev/"
 title = "Atmos Maciel"
 theme = "hello-friend-ng"
 languageCode = "pt-br"
