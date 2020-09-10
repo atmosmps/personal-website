@@ -1,4 +1,6 @@
-My personal blog page
+### My personal blog page
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/adc22234-1c95-4f0a-9c3b-7c789eda1721/deploy-status)](https://app.netlify.com/sites/atmosmps/deploys)
 
 Este é o esqueleto da página que usa o [Hugo](https://gohugo.io/). O build da página que contém os assets está em: [https://github.com/atmosmps/atmosmps.github.io](https://github.com/atmosmps/atmosmps.github.io)
 
