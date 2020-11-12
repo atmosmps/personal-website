@@ -82,15 +82,17 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 
 # And you can even create generic menu
 [menu]
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+  #[[menu.main]]
+  #  identifier = "posts"
+  #  name       = "Posts"
+  #  url        = "posts/"
+
   [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "about/"
-  [[menu.main]]
-    identifier = "projects"
-    name       = "Projects"
-    url        = "projects/"
+
+  #[[menu.main]]
+  #  identifier = "projects"
+  #  name       = "Projects"
+  #  url        = "projects/"
