@@ -15,9 +15,13 @@ Meu nome é *Atmos Maciel*.
 
 ## Sobre mim
 
-Gosto de ciência, inovação e código(seus padrões, arquiteturas, boas práticas). Também gosto da cultura open source e software livre. Sempre que posso, me envolvo com projetos do ecossistema de tecnologia e inovação do Maranhão.
+Gosto de ciência, inovação e código (principalmente a literatura). Também gosto da cultura open source e software livre. Sempre que posso, me envolvo com projetos do ecossistema de tecnologia e inovação do meu [Estado](https://en.wikipedia.org/wiki/Maranh%C3%A3o) e de outros.
 
-Também sou viciado em café e arranho no violão de vez em quando. Eu acredito que um dia vou conseguir jogar xadrez e poker.
+Também sou viciado em café e arranho no violão de vez em quando. Eu acredito que um dia vou conseguir jogar xadrez e poker, porém meu vício em séries, tecnologia e corrida retardam esses planos.
+
+### Keywords
+
+`#tech #dev #science #books #blues #running #chess #poker #guitar`
 
 ### Image
 
