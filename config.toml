@@ -1,11 +1,9 @@
-baseurl = "https://atmosmps.me/"
+baseurl = "localhost:1313"
 title = "Atmos Maciel"
 theme = "hello-friend-ng"
-languageCode = "pt-br"
-
+languageCode = "en-US"
 paginate = 10
 disqusShortname = "atmosmaciel"
-
 rssLimit = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
@@ -40,13 +38,6 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
-  # Uncomment this if you want a portrait on your start page
-  #
-  # [params.portrait]
-  #   path     = "/img/image.jpg"
-  #   alt      = "Portrait"
-  #   maxWidth = "50px"
-  
   # Social icons
   [[params.social]]
     name = "github"
