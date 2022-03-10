@@ -3,7 +3,7 @@ title = "Atmos Maciel"
 theme = "hello-friend-ng"
 languageCode = "en-US"
 paginate = 10
-disqusShortname = "atmosmaciel"
+disqusShortname = "atmosmps"
 rssLimit = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
@@ -22,7 +22,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "I think you know what the problem is just as well as I do."
+  homeSubtitle = "Vi veri vniversvm vivvs vici."
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -31,8 +31,8 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "I think you know what the problem is just as well as I do."
-  keywords = "technology, developer, science, books, music, astronomy, runnig, fight"
+  description = "Vi veri vniversvm vivvs vici."
+  keywords = "#tech #dev #science #astronomy #books #blackmusic #running #chess #poker #guitar"
   images = [""]
 
   # Default theme "light" or "dark"
@@ -55,10 +55,14 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     name = "linkedin"
     url  = "https://www.linkedin.com/in/atmosmps/"
 
+  #[[params.social]]
+  # name = "devto"
+  #  url  = "https://dev.to/atmosmps/"
+
 [languages]
   [languages.en]
     title = "Atmos Maciel"
-    subtitle = "I think you know what the problem is just as well as I do."
+    subtitle = "Vi veri vniversvm vivvs vici."
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
