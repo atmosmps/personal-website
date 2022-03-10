@@ -2,7 +2,7 @@ baseurl = "/"
 title = "Atmos Maciel"
 theme = "hello-friend-ng"
 languageCode = "en-US"
-paginate = 10
+paginate = 7
 disqusShortname = "atmosmps"
 rssLimit = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
@@ -59,10 +59,6 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     name = "linkedin"
     url  = "https://www.linkedin.com/in/atmosmps/"
 
-  #[[params.social]]
-  # name = "devto"
-  #  url  = "https://dev.to/atmosmps/"
-
 [languages]
   [languages.en]
     title = "Atmos Maciel"
@@ -73,10 +69,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 
     [languages.en.params.logo]
       logoText = "/atmosmps"
-      #logoHomeLink = "/"
-      #or
-      #path = "/img/your-example-logo.svg"
-      #alt = "Your example logo alt text"
+      logoHomeLink = "/"
 
 # And you can even create generic menu
 [menu]
