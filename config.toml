@@ -85,7 +85,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "about/"
+    url        = "/about/"
 
   #[[menu.main]]
   #  identifier = "projects"
