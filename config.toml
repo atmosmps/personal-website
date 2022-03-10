@@ -1,4 +1,5 @@
-baseurl = "localhost:1313"
+baseurl = "atmosmps.me"
+#baseurl = "localhost:1313"
 title = "Atmos Maciel"
 theme = "hello-friend"
 languageCode = "en-US"
