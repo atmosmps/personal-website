@@ -1,7 +1,6 @@
-baseurl = "atmosmps.me"
-#baseurl = "localhost:1313"
+baseurl = "/"
 title = "Atmos Maciel"
-theme = "hello-friend"
+theme = "hello-friend-ng"
 languageCode = "en-US"
 paginate = 10
 disqusShortname = "atmosmps"
@@ -26,7 +25,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Vi veri vniversvm vivvs vici."
+  homeSubtitle = "Vi veri universum vivus vici."
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -35,7 +34,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "Vi veri vniversvm vivvs vici."
+  description = "Vi veri universum vivus vici."
   keywords = "#tech #dev #science #astronomy #books #blackmusic #running #chess #poker #guitar"
   #images = [""]
 
@@ -67,7 +66,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 [languages]
   [languages.en]
     title = "Atmos Maciel"
-    subtitle = "Vi veri vniversvm vivvs vici."
+    subtitle = "Vi veri universum vivus vici."
     #keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"

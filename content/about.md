@@ -7,7 +7,7 @@ aliases = ["about-me","contact"]
   name = "Atmos Maciel"
 +++
 
-> *"Vi veri vniversvm vivvs vici."*
+> *"Vi veri universum vivus vici."*
 
 ### Olá
 
