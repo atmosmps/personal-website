@@ -9,11 +9,7 @@ aliases = ["about-me","contact"]
 
 > *"Vi veri universum vivus vici."*
 
-### Olá
-
-Meu nome é *Atmos Maciel*.
-
-## Sobre mim
+**Oi, sou *Atmos Maciel***.
 
 *Troubleshooter; Tech Geek who likes code (and its literature), innovation, science, open source culture, and free software;*
 
@@ -21,22 +17,33 @@ Gosto de ciência, inovação e código. Minhas principais áreas de estudo são
 
 Também sou viciado em café e arranho no violão de vez em quando. Eu acredito que um dia vou conseguir jogar xadrez e poker, porém meu vício em *geek* séries, tecnologia e corrida retardam esses planos.
 
-### Keywords
+## Keywords
+
+`#softwareEngineer #architect #webDevelopment`
 
 `#tech #dev #science #astronomy #books #blackmusic #running #chess #poker #guitar`
 
-### Subtitle
+## [Resume](link-for-resume-page)
 
-**First**
+Meu Resume.
+
+## Subtitles
+
+### Primeira
 
 A primeira frase que eu usava como subtítulo é uma fala do persongagem [HAL 9000](https://en.wikipedia.org/wiki/HAL_9000), do filme [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)).
 
 *"I think you know what the problem is just as well as I do."*
 
-**Actual**
+### Atual
 
 Atualmente a frase usada é uma frase atribuída à obra de Alan Moore: [V for Vendetta](https://en.wikipedia.org/wiki/V_for_Vendetta). Mais informações sobre ela existem na página da [Wikipedia](https://en.wikipedia.org/wiki/Vi_veri_universum_vivus_vici).
 
-### Apresentações
+## Apresentações
 
 Minhas apresentações estão disponíveis no meu [Speakerdeck](https://speakerdeck.com/atmosmps).
+
+## Fale comigo
+
+- [Telegram](https://t.me/atmosmps)
+- [Calendly](https://calendly.com/atmosmps/talk-to-me)
