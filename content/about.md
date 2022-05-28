@@ -7,6 +7,8 @@ aliases = ["about-me","contact"]
   name = "Atmos Maciel"
 +++
 
+{{< image src="/img/logo.png" alt="Portrait Logo" position="center" style="border-radius: 8px; max-width: 150px;" >}}
+
 > *"Vi veri universum vivus vici."*
 
 **Oi, sou *Atmos Maciel***.
@@ -27,6 +29,14 @@ Também sou viciado em café e arranho no violão de vez em quando. Eu acredito 
 
 Meu Resume.
 
+## Blog
+
+Meus posts podem ser encontrados [aqui](/posts) ou em https://blog.atmosmps.me/.
+
+## Apresentações
+
+Minhas apresentações estão disponíveis no meu [Speakerdeck](https://speakerdeck.com/atmosmps).
+
 ## Subtitles
 
 ### Primeira
@@ -38,10 +48,6 @@ A primeira frase que eu usava como subtítulo é uma fala do persongagem [HAL 90
 ### Atual
 
 Atualmente a frase usada é uma frase atribuída à obra de Alan Moore: [V for Vendetta](https://en.wikipedia.org/wiki/V_for_Vendetta). Mais informações sobre ela existem na página da [Wikipedia](https://en.wikipedia.org/wiki/Vi_veri_universum_vivus_vici).
-
-## Apresentações
-
-Minhas apresentações estão disponíveis no meu [Speakerdeck](https://speakerdeck.com/atmosmps).
 
 ## Fale comigo
 
