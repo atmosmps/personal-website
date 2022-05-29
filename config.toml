@@ -131,7 +131,7 @@ disableHugoGeneratorInject = false
   [params.logo]
     logoMark     = ">"
     logoText     = "$ /atmosmps"
-    logoHomeLink = "/"
+    logoHomeLink = "/br"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
@@ -165,21 +165,24 @@ disableHugoGeneratorInject = false
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-    [[menu.main]]
-      identifier = "about"
-      name       = "About"
-      url        = "about/"
-    [[menu.main]]
-      identifier = "posts"
-      name       = "Posts"
-      url        = "posts/"
+  [languages.br]
+    subtitle  = "Vi veri universum vivus vici."
+    weight    = 1
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 # And you can even create generic menu
-# [[menu.main]]
-#   identifier = "blog"
-#   name       = "Blog"
-#   url        = "/posts"
-# [[menu.main]]
-#   identifier = "projects"
-#   name       = "Projects"
-#   url        = "projects/"
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
+
+  # [[menu.main]]
+  #   identifier = "projects"
+  #   name       = "Projects"
+  #   url        = "projects/"
