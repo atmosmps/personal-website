@@ -19,15 +19,15 @@ Gosto de ciência, inovação e código. Minhas principais áreas de estudo são
 
 Também sou viciado em café e arranho no violão de vez em quando. Eu acredito que um dia vou conseguir jogar xadrez e poker, porém meu vício em *geek* séries, tecnologia e corrida retardam esses planos.
 
+## Background
+
+*Software Engineering* com foco em Backend. Mais informações sobre as tecnologias, linguagens e ferramentas que uso podem ser vistas no meu perfil do [Github](https://github.com/atmosmps).
+
 ## Keywords
 
-`#softwareEngineer #architect #webDevelopment`
+`#softwareEngineer #softwareArchitect #webDevelopment #computerScience #backend`
 
 `#tech #dev #science #astronomy #books #blackmusic #running #chess #poker #guitar`
-
-## [Resume](link-for-resume-page)
-
-Meu Resume.
 
 ## Blog
 
