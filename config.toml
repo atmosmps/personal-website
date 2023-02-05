@@ -6,8 +6,8 @@ theme = "hello-friend-ng"
 # PygmentsCodeFences = true
 # PygmentsStyle = "monokai"
 
-paginate = 7
-rssLimit = 7  # Maximum number of items in the RSS feed.
+paginate = 10
+rssLimit = 10 # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
 # googleAnalytics = ""
@@ -56,7 +56,7 @@ disableHugoGeneratorInject = false
   # Metadata mostly used in document's head
   #
   description = "Vi veri universum vivus vici."
-  keywords = "#tech #dev #science #astronomy #books #blackmusic #running #chess #poker #guitar"
+  # keywords = ""
   images = [""]
 
   # Home subtitle of the index page.
@@ -178,11 +178,11 @@ disableHugoGeneratorInject = false
     url        = "about/"
 
   [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+    identifier = "blog"
+    name       = "Blog"
+    url        = "blog/"
 
-  # [[menu.main]]
-  #   identifier = "projects"
-  #   name       = "Projects"
-  #   url        = "projects/"
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "projects/"
