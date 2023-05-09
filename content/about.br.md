@@ -11,31 +11,107 @@ aliases = ["about-me","contact"]
 
 > *"Vi veri universum vivus vici."*
 
-**Oi, sou *Atmos Maciel***.
+Oi, sou *Atmos Maciel*.
 
-*Troubleshooter; Tech Geek who likes code (and its literature), innovation, science, open source culture, and free software;*
+*I am a software developer. A troubleshooter, and/or a solution thinker who uses technology(code, mostly) for these purposes.*
 
-Gosto de ciência, inovação e código. Minhas principais áreas de estudo são: engenharia e arquitetura de software, algoritimos e estrutura de dados. Tenho interesse pela área de machine learning e data science. Me interesso pela cultura open source e software livre. Sempre que posso, me envolvo com projetos do ecossistema de tecnologia e inovação do [Estado](https://en.wikipedia.org/wiki/Maranh%C3%A3o) onde moro e de outros.
+Gosto de ciência, inovação e código. Minhas principais áreas de estudo são: engenharia e arquitetura de software, algoritimos e estrutura de dados, e alguns tópicos relacionados à devops(ferramentas, principalmente). Me interesso pela cultura open source e softwares livres. Sempre que posso, me envolvo com projetos do ecossistema de tecnologia e inovação do [Estado](https://en.wikipedia.org/wiki/Maranh%C3%A3o) onde moro e de outros. Em alguns momentos, fico de olho em alguns tópicos da área de machine learning e data science.
 
-Também sou viciado em café e arranho no violão de vez em quando. Eu acredito que um dia vou conseguir jogar xadrez e poker, porém meu vício em *geek* séries, tecnologia e corrida retardam esses planos.
+Assim, estou sempre estudando e aplicando sobre arquitetura de software, tópicos de computação, boas práticas de desenvolvimento, adicionando linguagens de programação à minha caixa de ferramentas, implantando em ambientes de nuvem, participando ativamente de equipes ágeis e, sempre que possível, escrevendo posts, contribuindo com o opensource e participando de eventos de tecnologia.
+
+Também sou viciado em café e arranho no violão de vez em quando. Eu acredito que *um dia* vou conseguir jogar xadrez, poker, e resolver meu cubo mágico com mais eficiência, porém meu vício em séries, tecnologia e corrida retardam esses planos.
+
+---
+
+## <a href="https://beacons.ai/atmosmps/" target="_blank">Fale comigo</a>
+
+- <a href="https://beacons.ai/atmosmps/" target="_blank">Beacons AI</a>
+
+---
 
 ## Keywords
 
-`#softwareEngineer #architect #webDevelopment`
+`#backendDevelopment` · `#architecture` · `#softwareEngineering` · `#algorithms`
 
-`#tech #dev #science #astronomy #books #blackmusic #running #chess #poker #guitar`
+`#science` · `#astronomy` · `#books` · `#blackmusic` · `#running` · `#chess` · `#poker` · `#guitar`
 
-## [Resume](link-for-resume-page)
+---
 
-Meu Resume.
+## Skills
+
+### Top Cloud Providers
+
+[![Top Cloud Providers](https://skillicons.dev/icons?i=gcp,heroku&theme=dark)](https://skillicons.dev)
+
+- [Digital Ocean](https://www.digitalocean.com)
+
+### Top Programming Languages
+
+[![Top Cloud Providers](https://skillicons.dev/icons?i=python,php,js,java,rust&theme=dark)](https://skillicons.dev)
+
+### Top Programming Languages Tools & Frameworks
+
+[![Top Cloud Providers](https://skillicons.dev/icons?i=django,fastapi,symfony,nodejs,spring,laravel&theme=dark)](https://skillicons.dev)
+
+### Top Tooling and Platforms
+
+[![Top Cloud Providers](https://skillicons.dev/icons?i=kubernetes,docker,git,gitlab,jenkins&theme=dark)](https://skillicons.dev)
+
+- [ArgoCD](https://argo-cd.readthedocs.io/en/stable/)
+
+### Observability and monitoring 
+
+[![Top Cloud Providers](https://skillicons.dev/icons?i=grafana&theme=dark)](https://skillicons.dev)
+
+- Newrelic
+
+### Top Databases
+
+[![Top Cloud Providers](https://skillicons.dev/icons?i=postgres,mysql,mongo,redis&theme=dark)](https://skillicons.dev)
+
+### Operating System
+
+[![Top Cloud Providers](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
+
+- Debian
+- Ubuntu
+- Fedora
+
+---
+
+## <a href="https://www.linkedin.com/in/atmosmps/" target="_blank">Experiência</a>
+
+- <a href="https://www.linkedin.com/in/atmosmps/" target="_blank">Linkedin</a>
+
+---
+
+## <a href="https://www.linkedin.com/in/atmosmps/" target="_blank">Educação</a>
+
+- <a href="https://www.linkedin.com/in/atmosmps/" target="_blank">Linkedin</a>
+
+---
+
+## ~~Certifications~~
+
+---
+
+## [Projetos](/projects)
+
+- [Projetos](/projects)
+
+---
 
 ## Blog
 
-Meus posts podem ser encontrados [aqui](/posts) ou em https://blog.atmosmps.me/.
+Meus textos podem ser encontrados [aqui](/posts) ou em [https://atmosmps.hashnode.dev/](https://atmosmps.hashnode.dev/).
 
-## Apresentações
+---
 
-Minhas apresentações estão disponíveis no meu [Speakerdeck](https://speakerdeck.com/atmosmps).
+## <a href="https://speakerdeck.com/atmosmps" target="_blank">Apresentações</a>
+
+- <a href="https://speakerdeck.com/atmosmps" target="_blank">Speakerdeck</a>
+
+---
 
 ## Subtitles
 
@@ -49,7 +125,6 @@ A primeira frase que eu usava como subtítulo é uma fala do persongagem [HAL 90
 
 Atualmente a frase usada é uma frase atribuída à obra de Alan Moore: [V for Vendetta](https://en.wikipedia.org/wiki/V_for_Vendetta). Mais informações sobre ela existem na página da [Wikipedia](https://en.wikipedia.org/wiki/Vi_veri_universum_vivus_vici).
 
-## Fale comigo
+---
 
-- [Telegram](https://t.me/atmosmps)
-- [Calendly](https://calendly.com/atmosmps/talk-to-me)
+## ~~Public Keys~~
