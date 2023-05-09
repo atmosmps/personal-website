@@ -144,16 +144,20 @@ disableHugoGeneratorInject = false
   [params.portrait]
     path     = "/img/logo.png"
     alt      = "Portrait Logo"
-    maxWidth = "150px"
+    maxWidth = "120px"
 
   # Social icons
   [[params.social]]
-    name = "github"
-    url  = "https://github.com/atmosmps/"
+      name = "matrix"
+      url  = "https://beacons.ai/atmosmps/"
 
   [[params.social]]
     name = "linkedin"
     url  = "https://www.linkedin.com/in/atmosmps/"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/atmosmps/"
 
   [[params.social]]
     name = "instagram"
